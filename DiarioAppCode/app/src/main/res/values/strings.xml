@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name"></string>
+
+    <string-array name="music">
+        <item>Hard Times</item>
+        <item>Assumptions</item>
+    </string-array>
+
+    <string-array name="categorias">
+        <item>TRABAJO 💻</item>
+        <item>ESTUDIO 📚</item>
+        <item>OCIO 🖥️</item>
+        <item>SOCIAL 👥</item>
+        <item>FAMILIAR 🫂</item>
+    </string-array>
+</resources>
